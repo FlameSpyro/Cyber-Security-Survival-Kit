@@ -1,4 +1,8 @@
 # Cyber-Security-Survival-Kit
-For my capstone project, I decided to create a sort of "Cybersecurity Survival Guide" that involves the bundling of software and tools such as Security Onion, phishing scam prevention tools, and more. This will be the home base for all the necessary downloads and documentation that will be used in the demonstration. The goal of this project is to offer a free/low-cost option for small to medium-sized organizations to properly protect themselves and their data from cyber threats that continue to grow and evolve over the years.
+Welcome to my capstone project: The Cyber Security Survival Kit. Repository containing scripts, written guides, quizzes and more all simplified into one solid package for anyone to download and install! All the information you need explaining the concepts, code, updates and progress can be found below.
 
-All of this will be tested inside a virtual environment that will be for demonstrate the tools and how it's supposed to work. To support this, I will be also engaging from a attackers perspective for the specific purpose of triggering the tools and what to keep an eye out for with proper documentation.
+# Table of Contents
+
+
+
+![Logo (1)](https://github.com/FlameSpyro/Cyber-Security-Survival-Kit/assets/70916199/7ff81d36-8db9-4208-8f22-5c6f7feba291)
