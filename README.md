@@ -1,6 +1,7 @@
 # Cyber-Security-Survival-Kit
 Welcome to my capstone project: The Cyber Security Survival Kit. Repository containing scripts, written guides, quizzes and more all simplified into one solid package for anyone to download and install! All the information you need explaining the concepts, code, updates and progress can be found below.
 
+For updates and documentation, please consult the Project Board for the project below. Clicking a task will show the documentation and updates I have been posting.
 | Progress Table of Contents  |
 | ------------- |
 | [Project Board/Sprint List](https://github.com/users/FlameSpyro/projects/3) |
