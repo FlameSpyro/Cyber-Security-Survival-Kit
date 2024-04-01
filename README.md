@@ -10,4 +10,3 @@ Welcome to my capstone project: The Cyber Security Survival Kit. Repository cont
 | [Sprint 3 Write-up](https://github.com/FlameSpyro/Cyber-Security-Survival-Kit/wiki/Sprint-3-Report) | |
 
 
-![Logo (1)](https://github.com/FlameSpyro/Cyber-Security-Survival-Kit/assets/70916199/7ff81d36-8db9-4208-8f22-5c6f7feba291)
