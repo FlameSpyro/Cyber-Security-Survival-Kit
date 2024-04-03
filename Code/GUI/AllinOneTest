@@ -1,0 +1,29 @@
+# test.ps1
+
+# Check if an argument is passed
+if ($args.Count -eq 0) {
+    Write-Host "No command specified. Exiting..."
+    exit
+}
+
+# Interpret the command passed
+$command = $args[0]
+
+# Execute different actions based on the command
+switch ($command) {
+    "pingtest" {
+        # Run ping test
+        Write-Host "Running ping test..."
+        # Execute your ping test logic here
+        break
+    }
+    "tracerttest" {
+        # Run traceroute test
+        Write-Host "Running traceroute test..."
+        # Execute your traceroute test logic here
+        break
+    }
+    default {
+        Write-Host "Invalid command: $command"
+    }
+}
