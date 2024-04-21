@@ -10,8 +10,8 @@ function Download-File {
 
 # Paths for the script in the provided folder, my github file moved into a temp file to be deleted
 # Put into vars for organization sake
-$localFilePath = "commands.ps1"
-$githubFilePath = "https://raw.githubusercontent.com/FlameSpyro/Cyber-Security-Survival-Kit/main/Code/GUI/commands.ps1"
+$localFilePath = "actions.ps1"
+$githubFilePath = "https://raw.githubusercontent.com/FlameSpyro/Cyber-Security-Survival-Kit/main/Code/GUI/actions.ps1"
 $tempFilePath = "compare_script.ps1"
 
 # Download actions.ps1 from GitHub
