@@ -13,7 +13,7 @@ param (
 )
 
 if ($a) {
-    # Flag -a: Open Manual :)
+    # Flag -a: Open Manual
     # Get the path of the directory where the script is located
     $scriptDirectory = Split-Path -Parent $MyInvocation.MyCommand.Path
 
