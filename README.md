@@ -8,6 +8,7 @@ For updates and documentation, please consult the Project Board for the project 
 | [Weekly Reflections](https://github.com/FlameSpyro/Cyber-Security-Survival-Kit/wiki/Reflections) |
 | [References](https://github.com/FlameSpyro/Cyber-Security-Survival-Kit/wiki/References) |
 | [Sprint 1 Write-up](https://github.com/FlameSpyro/Cyber-Security-Survival-Kit/wiki/Sprint-1-Write%E2%80%90up) |
-| [Sprint 3 Write-up](https://github.com/FlameSpyro/Cyber-Security-Survival-Kit/wiki/Sprint-3-Report) | |
+| [Sprint 3 Write-up](https://github.com/FlameSpyro/Cyber-Security-Survival-Kit/wiki/Sprint-3-Report) | 
+| [Sprint 4 Write-up](https://github.com/FlameSpyro/Cyber-Security-Survival-Kit/wiki/Sprint-4-Report) |
 
 
