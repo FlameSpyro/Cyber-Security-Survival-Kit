@@ -2,11 +2,21 @@
   <img src="https://github.com/FlameSpyro/Cyber-Security-Survival-Kit/assets/70916199/71130dc6-b10a-4af2-a76c-688902441c98" />
 </p>
 
-Welcome to my capstone project: The Cyber Security Survival Kit. Repository containing scripts, written guides, quizzes and more all simplified into one solid package for anyone to download and install! All the information you need explaining the concepts, code, updates and progress can be found below.
+Welcome to my capstone project: The Cyber Security Survival Kit. A repository containing scripts, written guides, quizzes and more all simplified into one solid package for anyone to download and install! Many people online struggle with proper security on their machine weather is be cost, confusing interface or nervousness. The Cyber Security Survival Kit is to remedy that as its the perfect starting point for anyone wanting to stay safe online. The program does all the installs for you leaving your computer safe and security with a large selection of features, settings, and programs that can be installed with just a click of a button. For more information and installation guides, please consult the manual provided below!
 
-### Version 1.0
+The program functions entirely though Windows Powershell, a command shell that can be programmed to run many of Windows Features built in! To ensure your safety, a security check for the files is run whenever CSSK.exe is run to ensure the files are exactly the same as on this repository.
 
+***
 
+Please click this link to download to the most up to date version of the program!
+
+### [Version 1.0](https://github.com/FlameSpyro/Cyber-Security-Survival-Kit/blob/main/CSSK.zip)
+
+### [Manual](https://github.com/FlameSpyro/Cyber-Security-Survival-Kit/blob/main/Database/Manual%20Draft.pdf)
+
+***
+
+### Development/Update Report
 
 The table below contains links to all the updates, porject boards, and reports for anyone interested in the development of the project!
 
