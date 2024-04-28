@@ -26,7 +26,7 @@ For more information please consult the wiki option provided below.
 | ------------- |
 | [Project Board/Sprint List](https://github.com/users/FlameSpyro/projects/3) |
 | [Weekly Reflections](https://github.com/FlameSpyro/Cyber-Security-Survival-Kit/wiki/Reflections) |
-| [Wiki]([https://github.com/FlameSpyro/Cyber-Security-Survival-Kit/wiki/References](https://github.com/FlameSpyro/Cyber-Security-Survival-Kit/wiki)) |
+| [Wiki](https://github.com/FlameSpyro/Cyber-Security-Survival-Kit/wiki) |
 | [Sprint 1 Write-up](https://github.com/FlameSpyro/Cyber-Security-Survival-Kit/wiki/Sprint-1-Write%E2%80%90up) |
 | [Sprint 3 Write-up](https://github.com/FlameSpyro/Cyber-Security-Survival-Kit/wiki/Sprint-3-Report) | 
 | [Sprint 4 Write-up](https://github.com/FlameSpyro/Cyber-Security-Survival-Kit/wiki/Sprint-4-Report) |
