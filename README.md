@@ -18,7 +18,7 @@ Please click this link to download to the most up to date version of the program
 
 ### Development/Update Report
 
-The table below contains links to all the updates, porject boards, and reports for anyone interested in the development of the project!
+The table below contains links to all the updates, project boards, and reports for anyone interested in the development of the project!
 
 For more information please consult the wiki option provided below.
 
