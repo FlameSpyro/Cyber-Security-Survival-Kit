@@ -8,24 +8,24 @@ The program functions entirely though Windows Powershell, a command shell that c
 
 ***
 
-### Provided Software/Features
+# Provided Software/Features
 At this time this is the provided software divided by section:
 
-## Starting Point
+### Starting Point
 * Manual
 * Windows Event Viwer
 * Chocolatey Installer
 
-## Detection
+### Detection
 * Malwarebytes (Installed through Chocolatey)
 * Ublock Origin for Chrome (Installed through Chocolatey)
 * Custom Windows Defender Scanner
 
-## Prevention
+### Prevention
 * Emisoft Survivial Kit(Installed through Chocolatey)
 * Windows Safe Mode Switch
 
-## Recovery
+### Recovery
 * Custom Restore Point Creation
 
 ***
