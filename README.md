@@ -8,6 +8,30 @@ The program functions entirely though Windows Powershell, a command shell that c
 
 ***
 
+### Provided Software/Features
+At this time this is the provided software divided by section:
+
+## Starting Point
+* Manual
+* Windows Event Viwer
+* Chocolatey Installer
+
+## Detection
+* Malwarebytes (Installed through Chocolatey)
+* Ublock Origin for Chrome (Installed through Chocolatey)
+* Custom Windows Defender Scanner
+
+## Prevention
+* Emisoft Survivial Kit(Installed through Chocolatey)
+* Windows Safe Mode Switch
+
+## Recovery
+* Custom Restore Point Creation
+
+***
+
+# Installs
+
 Please click this link to download to the most up to date version of the program!
 
 ### [Version 1.0](https://github.com/FlameSpyro/Cyber-Security-Survival-Kit/releases/tag/v1.0.0)
@@ -30,5 +54,7 @@ For more information please consult the wiki option provided below.
 | [Sprint 1 Write-up](https://github.com/FlameSpyro/Cyber-Security-Survival-Kit/wiki/Sprint-1-Write%E2%80%90up) |
 | [Sprint 3 Write-up](https://github.com/FlameSpyro/Cyber-Security-Survival-Kit/wiki/Sprint-3-Report) | 
 | [Sprint 4 Write-up](https://github.com/FlameSpyro/Cyber-Security-Survival-Kit/wiki/Sprint-4-Report) |
+
+***
 
 
