@@ -10,7 +10,7 @@ The program functions entirely though Windows Powershell, a command shell that c
 
 Please click this link to download to the most up to date version of the program!
 
-### [Version 1.0](https://github.com/FlameSpyro/Cyber-Security-Survival-Kit/blob/main/CSSK.zip)
+### [Version 1.0](https://github.com/FlameSpyro/Cyber-Security-Survival-Kit/releases/tag/v1.0.0)
 
 ### [Manual](https://github.com/FlameSpyro/Cyber-Security-Survival-Kit/blob/main/Database/Manual%20Draft.pdf)
 
